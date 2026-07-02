@@ -1,0 +1,9 @@
+# Dataset and generated artifacts
+data/
+phase1/data/
+
+# Model checkpoints and training outputs
+*.pt
+
+# Notebook state
+.ipynb_checkpoints/
